@@ -1,2 +1,5 @@
-# python-hw-1
-This is week 2 Python - Variables - Loops
+# HOMEWORK #1 - Python Due May 16th
+
+## CARLOS MOLINA
+
+### Printing variables to the screen
